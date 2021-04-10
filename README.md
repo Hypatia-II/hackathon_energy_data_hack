@@ -20,6 +20,8 @@ Hacker le login et le mdp sur une interception d'ondes radios.
 - `Corentin Lestrat (ENSTA Bretagne)` : État de l’art des exploitations de SPC avec du machine learning, recherche biblio sur des sujets divers en support sachant qu’il n’avait aucune formation technique en machine learning, social engineering
 
 
+## Vidéo du projet 
+https://www.youtube.com/watch?v=1lEJ_XKnc_s
 
 
 ## Installation
